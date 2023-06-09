@@ -70,3 +70,13 @@
     text-decoration: none;
 
 }
+
+.design h1:link {
+    text-decoration: underline;
+    color: black;
+}
+
+.design h1:visited {
+    text-decoration: none;
+    color: black;
+}
