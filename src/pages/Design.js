@@ -14,9 +14,8 @@ export default class Design extends Component {
   render() {
     return (
       <div className="design">
-        <div className="Links">
-          <p>UIUX reflection can be found in writings under "Reflection"</p>
-        </div>
+        <p>UIUX reflection can be found in writings under "Reflection"</p>
+
         <div className="logo">
           <img src={Logo} />
         </div>
