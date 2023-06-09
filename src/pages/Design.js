@@ -14,8 +14,6 @@ export default class Design extends Component {
   render() {
     return (
       <div className="design">
-        <p>UIUX reflection can be found in writings under "Reflection"</p>
-
         <div className="logo">
           <img src={Logo} />
         </div>
@@ -59,7 +57,8 @@ export default class Design extends Component {
         <p>
           {" "}
           This is the set up for the blog post where the page follows the
-          aesthetic and shows snippets of the website.
+          aesthetic and shows snippets of the website. UIUX reflection can be
+          found in writings under "Reflection"
         </p>
         <h1>Font </h1>
         <p>
