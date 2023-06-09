@@ -14,10 +14,9 @@ export default class Design extends Component {
   render() {
     return (
       <div className="design">
-        <Link to="/Reflection">
-          {" "}
-          <h2>UIUX Reflection</h2>{" "}
-        </Link>
+        <div className="Links">
+          <Link to="/Reflection">UIUX Reflection</Link>
+        </div>
         <div className="logo">
           <img src={Logo} />
         </div>

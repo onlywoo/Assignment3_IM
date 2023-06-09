@@ -71,12 +71,29 @@
 
 }
 
-.design h1:link {
-    text-decoration: underline;
+.Links a:link {
+    margin-top: 2px;
+    display: flex;
+    align-items: start;
+    justify-content: left;
+    flex-direction: row;
+    background-color: #ababab;
+    padding: 8px;
+    margin-left: 41px;
+    margin-right: 85%;
+    text-decoration: None;
     color: black;
+    border-color: #000000;
+    border-width: 2px;
+    border-style: solid;
 }
 
-.design h1:visited {
-    text-decoration: none;
+.Links a:visited {
+    text-decoration: None;
     color: black;
+
+}
+
+.Links a:hover {
+    background-color: #878787;
 }
