@@ -15,7 +15,7 @@ export default class Design extends Component {
     return (
       <div className="design">
         <div className="Links">
-          <Link to="/Reflection">UIUX Reflection</Link>
+          <Link to="/Reflection">Reflection</Link>
         </div>
         <div className="logo">
           <img src={Logo} />
