@@ -1,0 +1,72 @@
+.design {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: left;
+    align-items: start;
+    flex-direction: column;
+    background-color: #acaaaa;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+
+
+}
+
+.images img {
+    width: 390px;
+    height: 216px;
+    padding: 50px;
+    padding-bottom: 20px;
+    padding-right: 40px;
+    padding-left: 20px;
+}
+
+.logo img {
+    width: 350px;
+    height: 350px;
+    padding: 50px;
+    padding-bottom: 20px;
+    padding-right: 40px;
+    padding-left: 20px;
+}
+
+.design h1 {
+    align-items: center;
+    margin-left: 5%;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: #878787;
+    border-color: #000000;
+    border-width: 2px;
+    border-style: solid;
+}
+
+.Wireframes {
+    align-items: center;
+    margin-left: 1%;
+    padding-left: 40px;
+    padding-right: 40px;
+
+}
+
+.design p {
+    background-color: #878787;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: left;
+    font-stretch: extra-expanded;
+    letter-spacing: 1.2px;
+    line-height: 2;
+    font-size: 1.6ch;
+    font-weight: bold;
+    margin-left: 2%;
+    margin-right: 20%;
+    padding: 2%;
+    padding-left: 3%;
+    padding-right: -50%;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+
+}

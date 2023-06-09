@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  width: 100%;
+  height: auto;
+  direction: flex;
+  flex-direction: column;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #acaaaa;
+}
