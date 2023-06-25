@@ -14,11 +14,12 @@ export default class Home extends Component {
           </p>
           <p>canvas to create your own art... as long as your rich enough</p>
           <p>In the meantime, explore the rest of the website</p>
-          <div className="playImg">
-            <button Link to="/intArt">
+
+          <button Link to="/intArt">
+            <div className="playImg">
               <img src={Play} />
-            </button>
-          </div>
+            </div>
+          </button>
         </div>
       </div>
     );
