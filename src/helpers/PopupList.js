@@ -1,5 +1,4 @@
-import React from "react";
-import "../styles/intArt.css";
+//import "../styles/intArt.css";
 import firstAd from "../assets/5.png";
 import secAd from "../assets/6.png";
 import thirdAd from "../assets/7.png";

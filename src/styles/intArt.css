@@ -22,7 +22,7 @@
 
 /*items*/
 
-.popupItems {
+.popupItem {
     width: 100px;
     height: 100px;
     padding: 30px;
@@ -33,12 +33,12 @@
 
 }
 
-.popupItems:hover {
+.popupItem:hover {
 
     cursor: pointer;
 }
 
-.popupItems div {
+.popupItem div {
 
     width: 100px;
     height: 5px;
@@ -48,14 +48,14 @@
     background-size: cover;
 }
 
-.popupItems h1 {
+.popupItem h1 {
     font-size: 3ch;
     margin-left: 50px;
     margin-right: -50px;
     margin-top: -69px;
 }
 
-.popupItems p {
+.popupItem p {
     font-weight: bold;
     margin-left: 220px;
     margin-right: -1000px;
