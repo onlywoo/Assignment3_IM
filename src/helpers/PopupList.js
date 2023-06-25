@@ -14,69 +14,69 @@ import twelveAd from "../assets/16.png";
 
 export const PopupList = [
   {
-    name: "ads",
+    name: "",
     image: firstAd,
-    price: 69,
+    price: "",
   },
   {
     name: "",
     image: secAd,
-    price: 69,
+    price: "",
   },
   {
     name: "",
     image: thirdAd,
-    price: 69,
+    price: "",
   },
   {
     name: "",
     image: fourthAd,
-    price: 69,
+    price: "",
   },
   {
     name: "",
     image: fifthAd,
-    price: 69,
+    price: "",
   },
   {
     name: "",
     image: sixthAd,
-    price: 69,
+    price: "",
   },
   {
     name: "",
     image: seventhAd,
-    price: 69,
+    price: "",
   },
   {
     name: "",
     image: eigthAd,
-    price: 69,
+    price: "",
   },
   {
     name: "",
     image: firstAd,
-    price: 69,
+    price: "",
   },
   {
     name: "",
     image: nineAd,
-    price: 69,
+    price: "",
   },
   {
     name: "",
     image: tenAd,
-    price: 69,
+    price: "",
   },
   {
     name: "",
     image: elevenAd,
-    price: 69,
+    price: "",
   },
   {
     name: "",
     image: twelveAd,
-    price: 69,
+    price: "",
   },
 ];
 
