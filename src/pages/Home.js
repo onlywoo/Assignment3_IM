@@ -9,17 +9,13 @@ export default class Home extends Component {
         <h1>SidDaSleuth's Homepage</h1>
         <div className="headerCont">
           <h2>Welcome to the Clicker game</h2>
-          <p>
-            Here you can play a clicker game where you can buy property on a
-          </p>
+          <p>Here you can play a clicker game.</p>
           <p>canvas to create your own art... as long as your rich enough</p>
           <p>In the meantime, explore the rest of the website</p>
 
-          <button>
-            <div className="playImg">
-              <img src={Play} Link to="/intArt" />
-            </div>
-          </button>
+          <div className="playImg">
+            <button img src={Play} Link to="/Art"></button>
+          </div>
         </div>
       </div>
     );

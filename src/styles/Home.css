@@ -35,12 +35,12 @@
     margin: -100px;
 }
 
+
 button {
     background-color: #c0c0c0;
     padding-left: 20px;
     padding-right: 20px;
-    font-family: 'Courier New', Courier, monospace;
-    font-weight: bold;
+
 }
 
 button:hover {
