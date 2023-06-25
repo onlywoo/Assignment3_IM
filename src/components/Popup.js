@@ -1,18 +1,17 @@
-import ReactModal from "react-modal";
-import React, { useState } from "react";
+import React from "react";
 import "../styles/intArt.css";
 
-function Example() {
-  const [isOpen, setIsOpen] = useState(false);
-
-  return (
-    <div>
-      <button onClick={setIsOpen}>Open Modal</button>
-      <ReactModal isOpen={isOpen} contentLabel="Example Modal">
-        This is the content of the modal.
-      </ReactModal>
+function Popup(props) {
+  return props.trigger ? (
+    <div className="Popup">
+      <div className="popup-inner">
+        <button className="closebtn">Close</button>
+        {props.children}
+      </div>
     </div>
+  ) : (
+    ""
   );
 }
 
-export default Example;
+export default Popup;
