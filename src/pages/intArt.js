@@ -1,20 +1,41 @@
-import React, { Component } from "react";
+import React, { Component, useState } from "react";
+import { PopupList } from "../helpers/PopupList";
+import popupItems from "../components/popupItems";
 import "../styles/intArt.css";
-import Popup from "../components/Popup";
-import { useState } from "react";
 
-function pop() {
-  const [buttonPopup, setButtonPopup] = useState(false);
-
-  return (
-    <div className="pop">
-      <main>
-        <button onClick={() => setButtonPopup(true)}>Open the Game</button>
-      </main>
-      <Popup trigger={buttonPopup} setTrigger={setButtonPopup}>
-        <h1>My popup</h1>
-      </Popup>
-    </div>
-  );
+export default class popupAds extends Component {
+  render() {
+    return (
+      <div className="ads">
+        <h1 className="adTitles">Play game</h1>
+        <div>
+          {PopupList.map((PopupItem, value) => {
+            return (
+              <popupItems
+                value={value}
+                name={PopupItem.name}
+                image={PopupItem.image}
+              />
+            );
+          })}
+        </div>
+      </div>
+    );
+  }
 }
-export default pop;
+
+//import Popup from "../components/Popup";
+//import { Modal } from "./components/Modal";
+//import { useState } from "react";
+//
+//function pop() {
+//  const [openModal, setOpenModal] = useState(false);
+//  return (
+//    <div className="pop">
+//      <button className="open-popup">Open the Game</button>
+//      <Modal openModal={openModal} setOpenModal={setOpenModal} />
+//    </div>
+//  );
+//}
+//export default pop;
+//
