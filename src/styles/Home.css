@@ -12,7 +12,7 @@
 }
 
 .home h1 {
-    margin-top: -48px;
+    margin-top: -48.px;
     margin-bottom: 100px;
     margin-right: 55%;
     font-size: 2.5ch;
@@ -36,14 +36,15 @@
 }
 
 
-button {
+.button {
     background-color: #c0c0c0;
+    border-style: outset;
     padding-left: 20px;
     padding-right: 20px;
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
 }
 
-button:hover {
+.button:hover {
     background-color: #9d9d9d;
 }
