@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Assignment3_IM/static/css/main.fc67720a.css",
-    "main.js": "/Assignment3_IM/static/js/main.57b7297d.js",
+    "main.css": "/Assignment3_IM/static/css/main.0fee3eb3.css",
+    "main.js": "/Assignment3_IM/static/js/main.800f0769.js",
     "static/js/787.7cd949fd.chunk.js": "/Assignment3_IM/static/js/787.7cd949fd.chunk.js",
     "static/media/blogWirefream.png": "/Assignment3_IM/static/media/blogWirefream.9c40d6f7fb846f6b6594.png",
     "static/media/blog2WF.png": "/Assignment3_IM/static/media/blog2WF.85e474aae3e5ce940921.png",
@@ -15,14 +15,15 @@
     "static/media/4.png": "/Assignment3_IM/static/media/4.52009460f1e93ceac5bc.png",
     "static/media/3.png": "/Assignment3_IM/static/media/3.b9862a9b653f3dae8561.png",
     "static/media/1.png": "/Assignment3_IM/static/media/1.07d39467d85d45f2d93e.png",
+    "static/media/playButton.png": "/Assignment3_IM/static/media/playButton.6001ac23b20f5c828793.png",
     "static/media/Essay.png": "/Assignment3_IM/static/media/Essay.3c31b164bc50f58b48e3.png",
     "index.html": "/Assignment3_IM/index.html",
-    "main.fc67720a.css.map": "/Assignment3_IM/static/css/main.fc67720a.css.map",
-    "main.57b7297d.js.map": "/Assignment3_IM/static/js/main.57b7297d.js.map",
+    "main.0fee3eb3.css.map": "/Assignment3_IM/static/css/main.0fee3eb3.css.map",
+    "main.800f0769.js.map": "/Assignment3_IM/static/js/main.800f0769.js.map",
     "787.7cd949fd.chunk.js.map": "/Assignment3_IM/static/js/787.7cd949fd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc67720a.css",
-    "static/js/main.57b7297d.js"
+    "static/css/main.0fee3eb3.css",
+    "static/js/main.800f0769.js"
   ]
 }
