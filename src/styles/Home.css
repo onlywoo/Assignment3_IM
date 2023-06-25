@@ -23,20 +23,16 @@
     margin-top: 50px;
 }
 
-/*
-.playImg img {}
-*/
-.headerCont #Link {
-    margin: -100px;
-}
-
-
-button {
+.playImg img {
     align-items: center;
     margin-top: -120px;
     margin-bottom: -100px;
     width: 350px;
     height: 350px;
+}
+
+.headerCont #Link {
+    margin: -100px;
 }
 
 button:hover {
