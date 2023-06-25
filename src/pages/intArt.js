@@ -1,6 +1,6 @@
 import React, { Component, useState } from "react";
 import { PopupList } from "../helpers/PopupList";
-import popupItems from "../components/popupItems";
+import popupItems from "../components/PopupItems";
 import "../styles/intArt.css";
 
 export default class popupAds extends Component {
