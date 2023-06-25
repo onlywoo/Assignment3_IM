@@ -12,11 +12,12 @@ export default class Home extends Component {
           <p>Here you can play a clicker game.</p>
           <p>canvas to create your own art... as long as your rich enough</p>
           <p>In the meantime, explore the rest of the website</p>
-          <button>
-            <div className="playImg">
-              <img src={Play} Link to="/Art" />
-            </div>
-          </button>
+
+          <div className="playImg">
+            <button img src={Play}>
+              <Link to="/Art"></Link>
+            </button>
+          </div>
         </div>
       </div>
     );
