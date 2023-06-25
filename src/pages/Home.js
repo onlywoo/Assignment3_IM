@@ -15,9 +15,9 @@ export default class Home extends Component {
           <p>canvas to create your own art... as long as your rich enough</p>
           <p>In the meantime, explore the rest of the website</p>
 
-          <button Link to="/intArt">
+          <button>
             <div className="playImg">
-              <img src={Play} />
+              <img src={Play} Link to="/intArt" />
             </div>
           </button>
         </div>
