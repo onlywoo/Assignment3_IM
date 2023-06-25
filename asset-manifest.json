@@ -1,13 +1,25 @@
 {
   "files": {
-    "main.css": "/Assignment3_IM/static/css/main.1cbd2d5c.css",
-    "main.js": "/Assignment3_IM/static/js/main.8572ca8f.js",
+    "main.css": "/Assignment3_IM/static/css/main.4303d64e.css",
+    "main.js": "/Assignment3_IM/static/js/main.141ba34f.js",
     "static/js/787.7cd949fd.chunk.js": "/Assignment3_IM/static/js/787.7cd949fd.chunk.js",
+    "static/media/13.png": "/Assignment3_IM/static/media/13.827d9fd4baf950c859d8.png",
+    "static/media/14.png": "/Assignment3_IM/static/media/14.7efd9675751207251165.png",
+    "static/media/8.png": "/Assignment3_IM/static/media/8.853776ae355438db38f1.png",
+    "static/media/15.png": "/Assignment3_IM/static/media/15.44d22b369388f6022ea2.png",
     "static/media/blogWirefream.png": "/Assignment3_IM/static/media/blogWirefream.9c40d6f7fb846f6b6594.png",
+    "static/media/7.png": "/Assignment3_IM/static/media/7.fc20e51f2432a3413612.png",
+    "static/media/12.png": "/Assignment3_IM/static/media/12.4d08f18433d05d1d536a.png",
     "static/media/blog2WF.png": "/Assignment3_IM/static/media/blog2WF.85e474aae3e5ce940921.png",
+    "static/media/11.png": "/Assignment3_IM/static/media/11.616a5dce87443daa460d.png",
     "static/media/HPWireframe.png": "/Assignment3_IM/static/media/HPWireframe.264ae375f00d221b6db7.png",
+    "static/media/6.png": "/Assignment3_IM/static/media/6.48560fcddc2672cb66d6.png",
+    "static/media/10.png": "/Assignment3_IM/static/media/10.23a3ea0eb45c366b7ef2.png",
     "static/media/follow.png": "/Assignment3_IM/static/media/follow.a392e36b9602735eac9b.png",
+    "static/media/9.png": "/Assignment3_IM/static/media/9.2bb5c2ff848886de25d2.png",
+    "static/media/16.png": "/Assignment3_IM/static/media/16.c62da7c48a8538ac212f.png",
     "static/media/Logo.png": "/Assignment3_IM/static/media/Logo.c0cb46f88404365125b7.png",
+    "static/media/5.png": "/Assignment3_IM/static/media/5.2b7ea1b964ba2146cb2c.png",
     "static/media/2.png": "/Assignment3_IM/static/media/2.88cea2ed0d4a9ea4ed51.png",
     "static/media/Twitch.png": "/Assignment3_IM/static/media/Twitch.1174ac65be456a86116a.png",
     "static/media/Ig.png": "/Assignment3_IM/static/media/Ig.858b628022b29fe29bec.png",
@@ -18,12 +30,12 @@
     "static/media/playButton.png": "/Assignment3_IM/static/media/playButton.6001ac23b20f5c828793.png",
     "static/media/Essay.png": "/Assignment3_IM/static/media/Essay.3c31b164bc50f58b48e3.png",
     "index.html": "/Assignment3_IM/index.html",
-    "main.1cbd2d5c.css.map": "/Assignment3_IM/static/css/main.1cbd2d5c.css.map",
-    "main.8572ca8f.js.map": "/Assignment3_IM/static/js/main.8572ca8f.js.map",
+    "main.4303d64e.css.map": "/Assignment3_IM/static/css/main.4303d64e.css.map",
+    "main.141ba34f.js.map": "/Assignment3_IM/static/js/main.141ba34f.js.map",
     "787.7cd949fd.chunk.js.map": "/Assignment3_IM/static/js/787.7cd949fd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1cbd2d5c.css",
-    "static/js/main.8572ca8f.js"
+    "static/css/main.4303d64e.css",
+    "static/js/main.141ba34f.js"
   ]
 }
