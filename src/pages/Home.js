@@ -16,8 +16,8 @@ export default class Home extends Component {
           <div className="playImg">
             <img src={Play} />
           </div>
-          <button Link to="/intArt">
-            "Yes"
+          <button>
+            <Link to="/intArt"> Yes</Link>
           </button>
         </div>
       </div>
