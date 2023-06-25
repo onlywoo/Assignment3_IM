@@ -14,6 +14,7 @@ export default class Home extends Component {
           </p>
           <p>canvas to create your own art... as long as your rich enough</p>
           <p>In the meantime, explore the rest of the website</p>
+<<<<<<< HEAD
           <div className="playImg">
             <button Link to="/intArt">
               <img src={Play} />
@@ -22,6 +23,14 @@ export default class Home extends Component {
           <Link to="/Art">
             <button>Yes</button>
           </Link>
+=======
+
+          <button Link to="/intArt">
+            <div className="playImg">
+              <img src={Play} />
+            </div>
+          </button>
+>>>>>>> 910e32ed77fe0929eaae54daa9529529bdcf3cff
         </div>
       </div>
     );
