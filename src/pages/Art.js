@@ -28,7 +28,7 @@ export default class Art extends Component {
           <Link to="/Blog6">African Digital Art</Link>
         </div>
         <div className="Links">
-          <Link to="/newArt">Internet Art</Link>
+          <Link to="/newArt">IntArt</Link>
         </div>
         <div className="Links">
           <Link to="/Reflection">Reflection</Link>
