@@ -13,7 +13,7 @@ export default class popupAds extends Component {
             return (
               <PopupItems
                 name={popupItem.name}
-                price={popupItem.price}
+                button={popupItem.button}
                 image={popupItem.image}
               />
             );

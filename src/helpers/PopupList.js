@@ -11,72 +11,73 @@ import nineAd from "../assets/13.png";
 import tenAd from "../assets/14.png";
 import elevenAd from "../assets/15.png";
 import twelveAd from "../assets/16.png";
+import close from "../assets/exit.png";
 
 export const PopupList = [
   {
     name: "",
     image: firstAd,
-    price: "",
+    button: <button>close</button>,
   },
   {
     name: "",
     image: secAd,
-    price: "",
+    button: <button>close</button>,
   },
   {
     name: "",
     image: thirdAd,
-    price: "",
+    button: <button>close</button>,
   },
   {
     name: "",
     image: fourthAd,
-    price: "",
+    button: <button>close</button>,
   },
   {
     name: "",
     image: fifthAd,
-    price: "",
+    button: <button>close</button>,
   },
   {
     name: "",
     image: sixthAd,
-    price: "",
+    button: <button>close</button>,
   },
   {
     name: "",
     image: seventhAd,
-    price: "",
+    button: <button>close</button>,
   },
   {
     name: "",
     image: eigthAd,
-    price: "",
+    button: <button>close</button>,
   },
   {
     name: "",
     image: firstAd,
-    price: "",
+    button: <button>close</button>,
   },
   {
     name: "",
     image: nineAd,
-    price: "",
+    button: <button>close</button>,
   },
   {
     name: "",
     image: tenAd,
-    price: "",
+    button: <button>close</button>,
   },
   {
     name: "",
     image: elevenAd,
-    price: "",
+    button: <button>close</button>,
   },
   {
     name: "",
     image: twelveAd,
-    price: "",
+    button: <button>close</button>,
   },
 ];
 
