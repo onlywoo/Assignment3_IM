@@ -7,7 +7,9 @@ export default class popupAds extends Component {
   render() {
     return (
       <div className="menu">
-        ;<h1 className="menuTitle">Play game</h1>
+        <h1 className="menuTitle">
+          <img src={Play} />
+        </h1>
         <div>
           {PopupList.map((popupItem, value) => {
             return (
