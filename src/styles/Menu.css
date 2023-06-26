@@ -28,7 +28,7 @@
 
     width: 100px;
     height: 100px;
-    padding: 30px;
+    padding: 57%;
     margin: 50px;
     box-shadow: black;
 }
@@ -54,8 +54,9 @@
     font-weight: bold;
     margin-left: 220px;
     margin-right: -1000px;
-    margin-top: -105px;
+    margin-top: -77px;
     padding: 10px;
+    margin-bottom: 66px;
     background-color: #868686;
 }
 

@@ -27,6 +27,10 @@ function App() {
         <Route exact path="/Blog1" Component={Blog1} />
         <Route exact path="/Blog2" Component={Blog2} />
         <Route exact path="/Blog3" Component={Blog3} />
+        <Route exact path="/Blog4" Component={Blog4} />
+        <Route exact path="/Blog5" Component={Blog5} />
+        <Route exact path="/Blog6" Component={Blog6} />
+        <Route exact path="/newArt" Component={intArt} />
         <Route exact path="/Relfection" Component={Reflection} />
       </Routes>
       <Footer> </Footer>

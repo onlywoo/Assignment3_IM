@@ -43,6 +43,58 @@ export const MenuList = [
     ),
   },
   {
+    name: "Ethnocomputing and Digital Art ",
+    image: Essay,
+    info: "Ethnomathematics turns into enthnocomputing according to Bill Babbitt, Dan Lyles, and Ron Eglash. Ethnomathematics is said to face two major challenges, investigating mathematics within cultural contexts as they are often not seen as maths and secondly, even when this is proven, it becomes difficult to integrate into children’s education (Babbitt et al., 2012). ",
+    button: (
+      <Link to="/Blog4">
+        <button>Read More</button>
+      </Link>
+    ),
+  },
+  {
+    name: "Interaction Design ",
+    image: Essay,
+    info: "In our increasingly digital world, interaction design has become a critical discipline in shaping the way we interact with technology and engage with digital experiences. It focuses on creating intuitive, meaningful, and user-centred interactions that enhance the usability and overall experience of products, services, and interfaces. By considering the needs, behaviours, and preferences of users, interaction designers play a pivotal role in shaping engaging and efficient digital experiences.",
+    button: (
+      <Link to="/Blog5">
+        <button>Read More</button>
+      </Link>
+    ),
+  },
+  {
+    name: "African Digital art ",
+    image: Essay,
+    info: "Afropolitan deals with the identification of African people and the complexity of it because of the experiences of African people and the many African nations to which people belong to more than one of them (Ede, 2016). Afropolitanism is a huge range of ‘cultural complexity while taking into consideration the history that resulted in “blackness” as well as not allowing people’s identities to be simplified to what is considered ‘to be African or of African descent (Knudsen, 2016). ",
+    button: (
+      <Link to="/Blog6">
+        <button>Read More</button>
+      </Link>
+    ),
+  },
+  {
+    name: "intArt",
+    image: Essay,
+    info: "My internet art is inspired by FVPA 3 Readings from Scholars such as McRobbie (2018), Leary (2019), Niels van Doorn (2017) and Casilli (2017) who write about creativity under capitalism.(Leary, 2019)(McRobbie, 2018)(Casilli, 2017)(van Doorn, 2017) https://docs.google.com/document/d/1iVQ9UA6XHtOCm67HtnyntPHhajysd6wC5GEB6a9HHgI/edit?usp=sharing (Jacpasad, 2022) My answers can be found here if you are interested. My internet art will be a commentary on the privileges almost required to pursue arts as a job, especially from the perspective of someone from multiple marginalized groups. I got the inspiration for this from r/place on Reddit (“place,” n.d.) where Reddit users we're able to...",
+    button: (
+      <Link to="/newArt">
+        <button>Read More</button>
+      </Link>
+    ),
+  },
+
+  {
+    name: "Old intArt",
+    image: Essay,
+    info: "My internet art is inspired by FVPA 3 Readings from Scholars such as McRobbie (2018), Leary (2019), Niels van Doorn (2017) and Casilli (2017) who write about creativity under capitalism.(Leary, 2019)(McRobbie, 2018)(Casilli, 2017)(van Doorn, 2017) https://docs.google.com/document/d/1iVQ9UA6XHtOCm67HtnyntPHhajysd6wC5GEB6a9HHgI/edit?usp=sharing (Jacpasad, 2022) My answers can be found here if you are interested. My internet art will be a commentary on the privileges almost required to pursue arts as a job, especially from the perspective of someone from multiple marginalized groups. I got the inspiration for this from r/place on Reddit (“place,” n.d.) where Reddit users we're able to...",
+    button: (
+      <Link to="/Art">
+        <button>Read More</button>
+      </Link>
+    ),
+  },
+
+  {
     name: "Reflect",
     image: Essay,
     info: "The website takes on a retro-futuristic theme where it utilises old Windows aesthetics. I use the pixilated features for some of the websites and other fonts for the rest for ease of reading and to prevent there being an issue with font packs.I make it clear where the user is by using the heading on the homepage. I also make the Links big and bulky to be reminiscent of how Windows UIUX used to be from what. I introduced the website as a clicker game because I plan to use the idle-like game in the... ",

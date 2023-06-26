@@ -10,22 +10,34 @@ export default class Blog3 extends Component {
           <Link to="/Essay">Essay</Link>
         </div>
         <div className="Links">
-          <Link to="/Blog1">Blog 1</Link>
+          <Link to="/Blog1">React</Link>
         </div>
         <div className="Links">
-          <Link to="/Blog2">Blog 2</Link>
+          <Link to="/Blog2">Convention and Context</Link>
         </div>
         <div className="Links">
-          <Link to="/Blog3">Blog 3</Link>
+          <Link to="/Blog3">AI</Link>
+        </div>
+        <div className="Links">
+          <Link to="/Blog4">Ethnocomputing and Digital Art</Link>
+        </div>
+        <div className="Links">
+          <Link to="/Blog5">Interaction Design</Link>
+        </div>
+        <div className="Links">
+          <Link to="/Blog6">African Digital Art</Link>
+        </div>
+        <div className="Links">
+          <Link to="/newArt">Internet Art</Link>
         </div>
         <div className="Links">
           <Link to="/Reflection">Reflection</Link>
         </div>
         <div className="Links">
-          <Link to="/Art">Internet Art</Link>
+          <Link to="/Art">Old Internet Art</Link>
         </div>
         <div className="Essay">
-          <h1>Dev Blog Week 12</h1>
+          <h1>AI</h1>
           <p>
             React is incredibly helpful and makes coding much easier, I often
             struggle with reading documentation as I become overwhelmed and
