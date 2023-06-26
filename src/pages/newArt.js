@@ -93,7 +93,9 @@ export default class newArt extends Component {
             and comments I receive while playing video games. Some are hateful
             towards women in video games and call for their death while others
             are completely sexualising the mere thought of me playing video
-            games.
+            games. The reason I use a simple game such as Universal Paperclips
+            is because small games like this, that require the simple act of
+            clicking, are gatekept by men.
           </p>
           <p>
             I will present my research paper as evidence to back up my claims
