@@ -28,7 +28,7 @@
 
     width: 100px;
     height: 100px;
-    padding: 57%;
+    padding: 3%;
     margin: 50px;
     box-shadow: black;
 }
@@ -44,10 +44,10 @@
 }
 
 .menuItem h1 {
-    font-size: 2ch;
+    font-size: 1.8ch;
     margin-left: 50px;
-    margin-right: -50px;
-    margin-top: -69px;
+    margin-right: 50%;
+    margin-top: -81px;
 }
 
 .menuItem p {
