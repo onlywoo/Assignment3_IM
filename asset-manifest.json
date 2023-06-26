@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Assignment3_IM/static/css/main.c088788d.css",
-    "main.js": "/Assignment3_IM/static/js/main.160df1d1.js",
+    "main.css": "/Assignment3_IM/static/css/main.a9e27e96.css",
+    "main.js": "/Assignment3_IM/static/js/main.722b7878.js",
     "static/js/787.7cd949fd.chunk.js": "/Assignment3_IM/static/js/787.7cd949fd.chunk.js",
     "static/media/GifGame.gif": "/Assignment3_IM/static/media/GifGame.f3583b2f932a2c212aa3.gif",
     "static/media/BornFree.png": "/Assignment3_IM/static/media/BornFree.2a8729b36ad228bf7af1.png",
@@ -33,12 +33,12 @@
     "static/media/playButton.png": "/Assignment3_IM/static/media/playButton.6001ac23b20f5c828793.png",
     "static/media/Essay.png": "/Assignment3_IM/static/media/Essay.3c31b164bc50f58b48e3.png",
     "index.html": "/Assignment3_IM/index.html",
-    "main.c088788d.css.map": "/Assignment3_IM/static/css/main.c088788d.css.map",
-    "main.160df1d1.js.map": "/Assignment3_IM/static/js/main.160df1d1.js.map",
+    "main.a9e27e96.css.map": "/Assignment3_IM/static/css/main.a9e27e96.css.map",
+    "main.722b7878.js.map": "/Assignment3_IM/static/js/main.722b7878.js.map",
     "787.7cd949fd.chunk.js.map": "/Assignment3_IM/static/js/787.7cd949fd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c088788d.css",
-    "static/js/main.160df1d1.js"
+    "static/css/main.a9e27e96.css",
+    "static/js/main.722b7878.js"
   ]
 }
