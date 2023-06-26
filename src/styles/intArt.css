@@ -1,8 +1,8 @@
 .menu {
     background-image: url('../assets/GifGame.gif');
     width: 100%;
-    background-size: cover;
-    height: 100vh;
+    background-size: contain;
+    height: auto;
     padding: 0;
     margin: 0;
 }
@@ -60,10 +60,10 @@
     margin: 0;
     margin-top: 43px;
     margin-left: 79px;
-    margin-inline-end: 53px;
+    margin-inline-end: 65px;
     padding: 0;
     display: inline-grid;
-    grid-template-columns: repeat(5, 1fr);
+    grid-template-columns: repeat(10, 1fr);
     height: 301px;
     width: 301px;
 

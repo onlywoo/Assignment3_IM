@@ -131,6 +131,123 @@ export const PopupList = [
       </button>
     ),
   },
+  {
+    name: "",
+    image: firstAd,
+    button: (
+      <button>
+        <img src={close} />
+      </button>
+    ),
+  },
+  {
+    name: "",
+    image: secAd,
+    button: (
+      <button>
+        <img src={close} />
+      </button>
+    ),
+  },
+  {
+    name: "",
+    image: thirdAd,
+    button: (
+      <button>
+        <img src={close} />
+      </button>
+    ),
+  },
+  {
+    name: "",
+    image: fourthAd,
+    button: (
+      <button>
+        <img src={close} />
+      </button>
+    ),
+  },
+  {
+    name: "",
+    image: fifthAd,
+    button: (
+      <button>
+        <img src={close} />
+      </button>
+    ),
+  },
+  {
+    name: "",
+    image: sixthAd,
+    button: (
+      <button>
+        <img src={close} />
+      </button>
+    ),
+  },
+  {
+    name: "",
+    image: seventhAd,
+    button: (
+      <button>
+        <img src={close} />
+      </button>
+    ),
+  },
+  {
+    name: "",
+    image: eigthAd,
+    button: (
+      <button>
+        <img src={close} />
+      </button>
+    ),
+  },
+  {
+    name: "",
+    image: firstAd,
+    button: (
+      <button>
+        <img src={close} />
+      </button>
+    ),
+  },
+  {
+    name: "",
+    image: nineAd,
+    button: (
+      <button>
+        <img src={close} />
+      </button>
+    ),
+  },
+  {
+    name: "",
+    image: tenAd,
+    button: (
+      <button>
+        <img src={close} />
+      </button>
+    ),
+  },
+  {
+    name: "",
+    image: elevenAd,
+    button: (
+      <button>
+        <img src={close} />
+      </button>
+    ),
+  },
+  {
+    name: "",
+    image: twelveAd,
+    button: (
+      <button>
+        <img src={close} />
+      </button>
+    ),
+  },
 ];
 
 //function Popup(props) {
