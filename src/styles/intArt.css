@@ -26,17 +26,27 @@
     margin: 10px;
     box-shadow: black;
     border-style: outset;
-    position: unset;
     grid-template-columns: 1fr 1fr 1fr;
+
+    position: relative;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
 
 }
 
 .popupItem:hover {
 
     cursor: pointer;
+    transform: translate(var(--x-position), var(--y-position)) scale(1.25);
+    z-index: 999 !important;
 }
 
 .popupItem div {
+    position: absolute;
+    max-width: 250px;
+    height: auto;
+    transition: all 0.3s ease;
+    transform: translate(var(--x-position), var(--y-position)) scale(0.75);
 
     width: 250px;
     height: 250px;
