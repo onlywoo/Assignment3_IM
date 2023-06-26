@@ -11,6 +11,10 @@ import Essay from "./pages/Essay";
 import Blog1 from "./pages/Blog1";
 import Blog2 from "./pages/Blog2";
 import Blog3 from "./pages/Blog3";
+import Blog4 from "./pages/Blog4";
+import Blog5 from "./pages/Blog5";
+import Blog6 from "./pages/Blog6";
+import newArt from "./pages/newArt";
 import Reflection from "./pages/Reflection";
 
 function App() {
