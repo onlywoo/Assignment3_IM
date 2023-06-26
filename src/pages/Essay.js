@@ -28,7 +28,7 @@ export default class Essay extends Component {
           <Link to="/Blog6">African Digital Art</Link>
         </div>
         <div className="Links">
-          <Link to="/newArt">IntArt</Link>
+          <Link to="/newArt">internet Art</Link>
         </div>
         <div className="Links">
           <Link to="/Reflection">Reflection</Link>
