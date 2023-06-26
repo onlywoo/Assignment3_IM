@@ -20,8 +20,8 @@
 /*items*/
 
 .popupItem {
-    width: 200px;
-    height: 200px;
+    width: 300px;
+    height: 300px;
     padding: 5%;
     margin: 10px;
     box-shadow: black;
@@ -38,8 +38,8 @@
 
 .popupItem div {
 
-    width: 500px;
-    height: 500px;
+    width: 250px;
+    height: 250px;
     padding: 15px;
     background-repeat: no-repeat;
     background-size: cover;
