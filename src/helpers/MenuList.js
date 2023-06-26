@@ -67,7 +67,7 @@ export const MenuList = [
     image: Essay,
     info: "Afropolitan deals with the identification of African people and the complexity of it because of the experiences of African people and the many African nations to which people belong to more than one of them (Ede, 2016). Afropolitanism is a huge range of ‘cultural complexity while taking into consideration the history that resulted in “blackness” as well as not allowing people’s identities to be simplified to what is considered ‘to be African...",
     button: (
-      <Link to="/newArt">
+      <Link to="/Blog6">
         <button>Read More</button>
       </Link>
     ),
@@ -75,9 +75,9 @@ export const MenuList = [
   {
     name: "Internet Art",
     image: Essay,
-    info: "My internet art is inspired by FVPA 3 Readings from Scholars such as McRobbie (2018), Leary (2019), Niels van Doorn (2017) and Casilli (2017) who write about creativity under capitalism.(Leary, 2019)(McRobbie, 2018)(Casilli, 2017)(van Doorn, 2017) https://docs.google.com/document/d/1iVQ9UA6XHtOCm67HtnyntPHhajysd6wC5GEB6a9HHgI/edit?usp=sharing (Jacpasad, 2022) My answers can be found here if you are interested. My internet art will be a commentary on the privileges almost required to pursue arts as a job, especially from the perspective of someone from multiple marginalized groups. I got the inspiration for this from r/place on Reddit (“place,” n.d.) where Reddit users we're able to...",
+    info: "newArt...",
     button: (
-      <Link to="/Art">
+      <Link to="/newArt">
         <button>Read More</button>
       </Link>
     ),
