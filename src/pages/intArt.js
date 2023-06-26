@@ -1,7 +1,7 @@
 import React, { Component, useState } from "react";
 import { PopupList } from "../helpers/PopupList";
 import PopupItems from "../components/PopupItems";
-import Playbtn from "../assets/playButton.png";
+import Playbtn from "../assets/blankbtn.png";
 import "../styles/intArt.css";
 
 export default class popupAds extends Component {
@@ -9,7 +9,9 @@ export default class popupAds extends Component {
     return (
       <div className="menu">
         <div className="menuTitle">
-          <button img src="Playbtn"></button>
+          <button img src="Playbtn">
+            Play?
+          </button>
         </div>
         <div>
           {PopupList.map((popupItem, value) => {
