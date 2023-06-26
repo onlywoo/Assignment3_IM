@@ -1,13 +1,18 @@
 import React, { Component, useState } from "react";
 import { PopupList } from "../helpers/PopupList";
 import PopupItems from "../components/PopupItems";
+import Playbtn from "../assets/playButton.png";
 import "../styles/intArt.css";
 
 export default class popupAds extends Component {
   render() {
     return (
       <div className="menu">
-        <h1 className="menuTitle">Play game</h1>
+        <div className="menuTitle">
+          <button onClick={"myFunction()"}>
+            <img src="Playbtn" />
+          </button>
+        </div>
         <div>
           {PopupList.map((popupItem, value) => {
             return (

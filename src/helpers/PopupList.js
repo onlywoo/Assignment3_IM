@@ -17,67 +17,119 @@ export const PopupList = [
   {
     name: "",
     image: firstAd,
-    button: <button>close</button>,
+    button: (
+      <button>
+        <img src={close} />
+      </button>
+    ),
   },
   {
     name: "",
     image: secAd,
-    button: <button>close</button>,
+    button: (
+      <button>
+        <img src={close} />
+      </button>
+    ),
   },
   {
     name: "",
     image: thirdAd,
-    button: <button>close</button>,
+    button: (
+      <button>
+        <img src={close} />
+      </button>
+    ),
   },
   {
     name: "",
     image: fourthAd,
-    button: <button>close</button>,
+    button: (
+      <button>
+        <img src={close} />
+      </button>
+    ),
   },
   {
     name: "",
     image: fifthAd,
-    button: <button>close</button>,
+    button: (
+      <button>
+        <img src={close} />
+      </button>
+    ),
   },
   {
     name: "",
     image: sixthAd,
-    button: <button>close</button>,
+    button: (
+      <button>
+        <img src={close} />
+      </button>
+    ),
   },
   {
     name: "",
     image: seventhAd,
-    button: <button>close</button>,
+    button: (
+      <button>
+        <img src={close} />
+      </button>
+    ),
   },
   {
     name: "",
     image: eigthAd,
-    button: <button>close</button>,
+    button: (
+      <button>
+        <img src={close} />
+      </button>
+    ),
   },
   {
     name: "",
     image: firstAd,
-    button: <button>close</button>,
+    button: (
+      <button>
+        <img src={close} />
+      </button>
+    ),
   },
   {
     name: "",
     image: nineAd,
-    button: <button>close</button>,
+    button: (
+      <button>
+        <img src={close} />
+      </button>
+    ),
   },
   {
     name: "",
     image: tenAd,
-    button: <button>close</button>,
+    button: (
+      <button>
+        <img src={close} />
+      </button>
+    ),
   },
   {
     name: "",
     image: elevenAd,
-    button: <button>close</button>,
+    button: (
+      <button>
+        <img src={close} />
+      </button>
+    ),
   },
   {
     name: "",
     image: twelveAd,
-    button: <button>close</button>,
+    button: (
+      <button>
+        <img src={close} />
+      </button>
+    ),
   },
 ];
 

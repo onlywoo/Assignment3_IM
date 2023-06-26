@@ -12,7 +12,6 @@
 .PopupList {
     width: 100%;
     height: 100%;
-    display: flex;
     border-style: outset;
 }
 
@@ -36,7 +35,7 @@
 .popupItem:hover {
     cursor: pointer;
     transition: 0.5% ease-in-out;
-   
+
 }
 
 .popupItem div {
@@ -64,8 +63,7 @@
     margin-right: -50px;
     margin-top: -69px;
 }
-
-
+*/
 .popupItem p {
     font-weight: bold;
     margin-left: 220px;
@@ -74,7 +72,12 @@
     padding: 10px;
     background-color: #868686;
 }
-*/
+
+.popupItem p:hover {
+    cursor: pointer;
+}
+
+
 @media only screen and (max-width: 1300px) {
     .PopupList {
         grid-template-columns: repeat(5, 1fr);
