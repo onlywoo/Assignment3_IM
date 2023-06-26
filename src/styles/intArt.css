@@ -4,9 +4,9 @@
     font-family: 'Courier New', Courier, monospace;
 }
 
-.menu .menuTitle {
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 60px;
+.menuTitle img {
+    width: 350px;
+    height: 350px;
 }
 
 .PopupList {
