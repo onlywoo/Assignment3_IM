@@ -1,8 +1,10 @@
 .menu {
     background-image: url('../assets/GifGame.gif');
     width: 100%;
-    height: auto;
-    font-family: 'Courier New', Courier, monospace;
+    background-size: cover;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
 }
 
 .menuTitle button {
