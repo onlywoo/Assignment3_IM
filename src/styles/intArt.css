@@ -4,6 +4,17 @@
     font-family: 'Courier New', Courier, monospace;
 }
 
+button {
+    background-color: transparent;
+    border: none;
+    margin: 0;
+    padding: 0;
+    text-align: inherit;
+    font: inherit;
+    border-radius: 0;
+    appearance: none;
+}
+
 .menuTitle img {
     margin-top: 5px;
 }
@@ -14,6 +25,14 @@
 }
 
 #mybutton {
+    background-color: transparent;
+    border: none;
+    margin: 0;
+    padding: 0;
+    text-align: inherit;
+    font: inherit;
+    border-radius: 0;
+    appearance: none;
     cursor: pointer;
 }
 
