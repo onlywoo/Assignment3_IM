@@ -36,7 +36,7 @@ export default class Blog6 extends Component {
           <Link to="/Art">Old Internet Art</Link>
         </div>
         <div className="Links">
-          <Link to="/Reflection">Reflection</Link>
+          <Link to="/Relfection">Reflection</Link>
         </div>
 
         <div className="Essay">
