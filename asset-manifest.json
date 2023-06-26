@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/Assignment3_IM/static/css/main.a9e27e96.css",
-    "main.js": "/Assignment3_IM/static/js/main.722b7878.js",
+    "main.js": "/Assignment3_IM/static/js/main.86799876.js",
     "static/js/787.7cd949fd.chunk.js": "/Assignment3_IM/static/js/787.7cd949fd.chunk.js",
     "static/media/GifGame.gif": "/Assignment3_IM/static/media/GifGame.f3583b2f932a2c212aa3.gif",
     "static/media/BornFree.png": "/Assignment3_IM/static/media/BornFree.2a8729b36ad228bf7af1.png",
     "static/media/WAUR.png": "/Assignment3_IM/static/media/WAUR.a0a3c6c94027d651a443.png",
+    "static/media/ArtWF.png": "/Assignment3_IM/static/media/ArtWF.73f8df8abb69c34d58d9.png",
     "static/media/13.png": "/Assignment3_IM/static/media/13.827d9fd4baf950c859d8.png",
     "static/media/blogWirefream.png": "/Assignment3_IM/static/media/blogWirefream.aab112876c944fe552b6.png",
     "static/media/14.png": "/Assignment3_IM/static/media/14.7efd9675751207251165.png",
@@ -34,11 +35,11 @@
     "static/media/Essay.png": "/Assignment3_IM/static/media/Essay.3c31b164bc50f58b48e3.png",
     "index.html": "/Assignment3_IM/index.html",
     "main.a9e27e96.css.map": "/Assignment3_IM/static/css/main.a9e27e96.css.map",
-    "main.722b7878.js.map": "/Assignment3_IM/static/js/main.722b7878.js.map",
+    "main.86799876.js.map": "/Assignment3_IM/static/js/main.86799876.js.map",
     "787.7cd949fd.chunk.js.map": "/Assignment3_IM/static/js/787.7cd949fd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a9e27e96.css",
-    "static/js/main.722b7878.js"
+    "static/js/main.86799876.js"
   ]
 }
