@@ -7,6 +7,7 @@ import homePageWF from "../assets/HPWireframe.png";
 import BlogWF from "../assets/blogWirefream.png";
 import BlogWF2 from "../assets/blog2WF.png";
 import Logo from "../assets/Logo.png";
+import Art from "../assets/ArtWF.png";
 import { Link } from "react-router-dom";
 import "../styles/Design.css";
 
@@ -84,6 +85,9 @@ export default class Design extends Component {
         </div>
         <div className="images">
           <img src={BlogWF2} />
+        </div>
+        <div className="images">
+          <img src={Art} />
         </div>
       </div>
     );

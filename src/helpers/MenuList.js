@@ -75,7 +75,7 @@ export const MenuList = [
   {
     name: "Internet Art",
     image: Essay,
-    info: "newArt...",
+    info: "My new internet art takes inspiration from pop-up ads and viruses that were impossible to get rid of once they were clicked. My internet art is to simulate the experience I have online as someone who is fem presenting as well as someone who plays video games and makes it appear on my profile. This art is inspired by my experiences and many others, it is motivated by my research project where I investigated the...",
     button: (
       <Link to="/newArt">
         <button>Read More</button>
@@ -85,7 +85,7 @@ export const MenuList = [
   {
     name: "Old Internet Art",
     image: Essay,
-    info: "My internet art is inspired by FVPA 3 Readings from Scholars such as McRobbie (2018), Leary (2019), Niels van Doorn (2017) and Casilli (2017) who write about creativity under capitalism.(Leary, 2019)(McRobbie, 2018)(Casilli, 2017)(van Doorn, 2017) https://docs.google.com/document/d/1iVQ9UA6XHtOCm67HtnyntPHhajysd6wC5GEB6a9HHgI/edit?usp=sharing (Jacpasad, 2022) My answers can be found here if you are interested. My internet art will be a commentary on the privileges almost required to pursue arts as a job, especially from the perspective of someone from multiple marginalized groups. I got the inspiration for this from r/place on Reddit (“place,” n.d.) where Reddit users we're able to...",
+    info: "My internet art is inspired by FVPA 3 Readings from Scholars such as McRobbie (2018), Leary (2019), Niels van Doorn (2017) and Casilli (2017) who write about creativity...",
     button: (
       <Link to="/Art">
         <button>Read More</button>

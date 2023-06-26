@@ -39,15 +39,18 @@ export default class Reflection extends Component {
 
         <div className="Essay">
           <h1>Reflection on UI and UX</h1>
-          <p></p>
-          <h2>Overall Website</h2>
+          <p>
+            <h2>Overall Website</h2>
+          </p>
           <p>
             The website takes on a retro-futuristic theme where it utilises old
             Windows aesthetics. I use the pixilated features for some of the
             websites and other fonts for the rest for ease of reading and to
             prevent there being an issue with font packs.
           </p>
-          <h2>Homepage</h2>
+          <p>
+            <h2>Homepage</h2>
+          </p>
           <p>
             I make it clear where the user is by using the heading on the
             homepage. I also make the Links big and bulky to be reminiscent of
@@ -64,7 +67,9 @@ export default class Reflection extends Component {
             something I remember from childhood about these games. It works out
             well as the unstyled buttons of websites fit the aesthetic well.
           </p>
-          <h2>Writings</h2>
+          <p>
+            <h2>Writings</h2>
+          </p>
           <p>
             The writings page has all the blogs on display with a snippet of
             them in view and the read more button layered over them, so users
@@ -80,7 +85,9 @@ export default class Reflection extends Component {
             convenience of the user and to ensure that they do not have to go
             back and forth like mentioned above how old websites would often do.
           </p>
-          <h2>UIUX</h2>
+          <p>
+            <h2>UIUX</h2>
+          </p>
           <p>
             In the digital age, user experience (UX) and user interface (UI)
             design play an important role in web design. UI refers to the visual
@@ -162,16 +169,39 @@ export default class Reflection extends Component {
             On my website, I prioritized navigation as it&rsquo;s possible to
             access the whole website at any moment due to the consistent
             JavaScript Script navigation. The responsiveness of the website is
-            not throughout and really only works well on the home page. The
-            information hierarchy needs some obvious work as a lot of the
-            colours blend into each other and make it a little hard to read
-            everything clearly and identify the buttons from the rest of the
-            website. I&rsquo;ve tried to make it obvious by placing a border
-            similar to the default JavaScript Script buttons. The website is
-            consistent with the aesthetic however I feel I could make the
-            navigation buttons just default buttons to feel closer to the
-            aesthetic. Due to the very basic nature of the website because it
-            follows the aesthetic the load times are not very long.
+            not throughout and only works well on the home page. The information
+            hierarchy needs some obvious work as a lot of the colours blend into
+            each other and make it a little hard to read everything clearly and
+            identify the buttons from the rest of the website. I&rsquo;ve tried
+            to make it obvious by placing a border similar to the default
+            JavaScript Script buttons. The website is consistent with the
+            aesthetic however I feel I could make the navigation buttons just
+            default buttons to feel closer to the aesthetic. Due to the very
+            basic nature of the website because it follows the aesthetic the
+            load times are not very long.
+          </p>
+          <p>
+            My website is responsive, everything can be seen how intended except
+            for the font on certain pages, which overlaps the container and
+            doesn&rsquo;t fit in. My accessibility is non-existent, this is
+            something I want to focus on more as accessibility is an important
+            part of my internet art. My art page is responsive, it allows for
+            the background to be seen while also being blocked by the ads as
+            intended. My navigation is responsive; however, it stops working
+            well at certain sizes and the buttons become larger than intended.
+          </p>
+          <p>
+            My goals are to have the correct semantic tags and markup, I want my
+            page to be as accessible as possible. As mentioned before,
+            accessibility should be the standard, it feels hypocritical to ask
+            for inclusion while actively excluding other marginalized groups by
+            not making my website accessible.
+          </p>
+          <p>
+            I would like to utilize react more for my internet art, to make it
+            more interactive so that there is something that happens rather than
+            an illusion of it despite this being a part of my rationale behind
+            my art.
           </p>
         </div>
       </div>

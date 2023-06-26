@@ -78,17 +78,43 @@ export default class newArt extends Component {
             (&ldquo;ResearchProject_Exam_2396624.docx,&rdquo; n.d.).
           </p>
           <p>
+            I initially wanted the ads to pop up randomly and sporadically as
+            ads do however, I view this cyber harassment as more of an obstacle,
+            a wall, that physically stops me from playing online games and
+            speaking in chat. Therefore, nothing happens when the user clicks
+            anything. It feels completely useless to try anything on the website
+            because you know it won&rsquo;t work, just like how it feels to have
+            to stand up to privileged groups and defend yourself as a
+            marginalised person. For further improvement, I would like to make
+            the ads timed, appear at different times, and be more all over the
+            place to show that it&rsquo;s impossible to escape men&rsquo;s hate
+            and simultaneous sexualisation. You see the sexualisation from the
+            screenshots I have placed from the direct messages I have received
+            and comments I receive while playing video games. Some are hateful
+            towards women in video games and call for their death while others
+            are completely sexualising the mere thought of me playing video
+            games.
+          </p>
+          <p>
             I will present my research paper as evidence to back up my claims
             that this is a common experience that fem presenting people
             experience online. &nbsp;I feel it is important to read because
             I&rsquo;m passionate about this issue and want people to have this
-            information available to them.
+            information available to them. I speak about the role anonymity has
+            as well as the accompanying affordances of technology that allow for
+            misogyny to be alive and well. I investigate using a case study that
+            shows people being verbally abused for being seen as a woman. I also
+            look into how online communities and social platforms allow for
+            bubbles to be formed and in turn cause people to have their bigoted
+            ideologies supported. These small bubbles make it feel as though
+            there Is a larger group than there is that support you.
           </p>
           <p>
             <a href="https://drive.google.com/file/d/12lHUR7PALasj7Whffqz8GSaMaBqdiwK9/view?usp=sharing">
               https://drive.google.com/file/d/12lHUR7PALasj7Whffqz8GSaMaBqdiwK9/view?usp=sharing
             </a>
           </p>
+          <p>&nbsp;</p>
           <p>References</p>
           <p>ResearchProject_Exam_2396624.docx, n.d.</p>
         </div>
