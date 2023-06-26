@@ -19,8 +19,8 @@
 /*items*/
 
 .popupItem {
-    width: 300px;
-    height: 300px;
+    width: 160px;
+    height: 160px;
 
     box-shadow: black;
     border-style: outset;
@@ -44,16 +44,16 @@
     transition: all 0.3s ease;
     transform: translate(var(--x-position), var(--y-position)) scale(0.75);
 
-    /*
-    width: 250px;
-    height: 250px;
+
+    width: 150px;
+    height: 150px;
     padding: 15px;
     background-repeat: no-repeat;
     background-size: cover;
     border-style: outset;
     background-position: center;
     position: sticky;
-    */
+
 }
 
 /*
@@ -73,15 +73,15 @@
     padding: 10px;
     background-color: #868686;
 }
+*/
 @media only screen and (max-width: 1300px) {
     .PopupList {
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: repeat(5, 1fr);
     }
 }
 
 @media only screen and (max-width: 800px) {
     .PopupList {
-        grid-template-columns: 1fr;
+        grid-template-columns: repeat(5, 1fr);
     }
 }
-*/
