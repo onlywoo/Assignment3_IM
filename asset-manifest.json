@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Assignment3_IM/static/css/main.a5d20e53.css",
-    "main.js": "/Assignment3_IM/static/js/main.b9432759.js",
+    "main.css": "/Assignment3_IM/static/css/main.502babd3.css",
+    "main.js": "/Assignment3_IM/static/js/main.7eb89bcc.js",
     "static/js/787.7cd949fd.chunk.js": "/Assignment3_IM/static/js/787.7cd949fd.chunk.js",
     "static/media/GifGame.gif": "/Assignment3_IM/static/media/GifGame.f3583b2f932a2c212aa3.gif",
     "static/media/BornFree.png": "/Assignment3_IM/static/media/BornFree.2a8729b36ad228bf7af1.png",
     "static/media/WAUR.png": "/Assignment3_IM/static/media/WAUR.a0a3c6c94027d651a443.png",
     "static/media/13.png": "/Assignment3_IM/static/media/13.827d9fd4baf950c859d8.png",
+    "static/media/blogWirefream.png": "/Assignment3_IM/static/media/blogWirefream.aab112876c944fe552b6.png",
     "static/media/14.png": "/Assignment3_IM/static/media/14.7efd9675751207251165.png",
     "static/media/8.png": "/Assignment3_IM/static/media/8.853776ae355438db38f1.png",
+    "static/media/HPWireframe.png": "/Assignment3_IM/static/media/HPWireframe.adece1ffede0a2aa93ac.png",
     "static/media/15.png": "/Assignment3_IM/static/media/15.44d22b369388f6022ea2.png",
-    "static/media/blogWirefream.png": "/Assignment3_IM/static/media/blogWirefream.9c40d6f7fb846f6b6594.png",
     "static/media/7.png": "/Assignment3_IM/static/media/7.fc20e51f2432a3413612.png",
+    "static/media/blog2WF.png": "/Assignment3_IM/static/media/blog2WF.7722b6b598f432537508.png",
     "static/media/12.png": "/Assignment3_IM/static/media/12.4d08f18433d05d1d536a.png",
-    "static/media/blog2WF.png": "/Assignment3_IM/static/media/blog2WF.85e474aae3e5ce940921.png",
     "static/media/11.png": "/Assignment3_IM/static/media/11.616a5dce87443daa460d.png",
-    "static/media/HPWireframe.png": "/Assignment3_IM/static/media/HPWireframe.264ae375f00d221b6db7.png",
     "static/media/6.png": "/Assignment3_IM/static/media/6.48560fcddc2672cb66d6.png",
     "static/media/10.png": "/Assignment3_IM/static/media/10.23a3ea0eb45c366b7ef2.png",
-    "static/media/follow.png": "/Assignment3_IM/static/media/follow.a392e36b9602735eac9b.png",
     "static/media/9.png": "/Assignment3_IM/static/media/9.2bb5c2ff848886de25d2.png",
     "static/media/16.png": "/Assignment3_IM/static/media/16.c62da7c48a8538ac212f.png",
+    "static/media/follow.png": "/Assignment3_IM/static/media/follow.5040e3a8586e037b9fcd.png",
     "static/media/Logo.png": "/Assignment3_IM/static/media/Logo.c0cb46f88404365125b7.png",
     "static/media/5.png": "/Assignment3_IM/static/media/5.2b7ea1b964ba2146cb2c.png",
     "static/media/2.png": "/Assignment3_IM/static/media/2.88cea2ed0d4a9ea4ed51.png",
@@ -33,12 +33,12 @@
     "static/media/playButton.png": "/Assignment3_IM/static/media/playButton.6001ac23b20f5c828793.png",
     "static/media/Essay.png": "/Assignment3_IM/static/media/Essay.3c31b164bc50f58b48e3.png",
     "index.html": "/Assignment3_IM/index.html",
-    "main.a5d20e53.css.map": "/Assignment3_IM/static/css/main.a5d20e53.css.map",
-    "main.b9432759.js.map": "/Assignment3_IM/static/js/main.b9432759.js.map",
+    "main.502babd3.css.map": "/Assignment3_IM/static/css/main.502babd3.css.map",
+    "main.7eb89bcc.js.map": "/Assignment3_IM/static/js/main.7eb89bcc.js.map",
     "787.7cd949fd.chunk.js.map": "/Assignment3_IM/static/js/787.7cd949fd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a5d20e53.css",
-    "static/js/main.b9432759.js"
+    "static/css/main.502babd3.css",
+    "static/js/main.7eb89bcc.js"
   ]
 }
