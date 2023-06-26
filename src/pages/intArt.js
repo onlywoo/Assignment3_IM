@@ -7,7 +7,7 @@ import "../styles/intArt.css";
 export default class popupAds extends Component {
   render() {
     return (
-      <div className="menu">
+      <div className="menutwo">
         <div className="menuTitle">
           <button>
             <img src={Playbtn} id="myButton" onClick={"butClick()"} />
