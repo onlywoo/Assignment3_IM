@@ -75,7 +75,6 @@
     padding: 10px;
     background-color: #868686;
 }
-*/
 @media only screen and (max-width: 1300px) {
     .PopupList {
         grid-template-columns: 1fr 1fr;
@@ -86,4 +85,25 @@
     .PopupList {
         grid-template-columns: 1fr;
     }
+}
+*/
+
+
+.grid-container {
+    position: relative;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+}
+
+img {
+    position: absolute;
+    max-width: 200px;
+    height: auto;
+    transition: all 0.3s ease;
+    transform: translate(var(--x-position), var(--y-position)) scale(0.75);
+}
+
+img:hover {
+    transform: translate(var(--x-position), var(--y-position)) scale(1.25);
+    z-index: 999 !important;
 }
