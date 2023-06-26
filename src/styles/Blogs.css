@@ -69,13 +69,11 @@
 
 .Links a:hover {
     background-color: #878787;
+    cursor: pointer;
 }
 
-
-
-
 .Essay {
-    width: 65%;
+    width: 55%;
     height: auto;
     display: inline-block;
     justify-content: end;

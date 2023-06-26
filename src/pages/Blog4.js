@@ -31,11 +31,12 @@ export default class Blog4 extends Component {
           <Link to="/newArt">internet Art</Link>
         </div>
         <div className="Links">
-          <Link to="/Relfection">Reflection</Link>
-        </div>
-        <div className="Links">
           <Link to="/Art">Old Internet Art</Link>
         </div>
+        <div className="Links">
+          <Link to="/Relfection">Reflection</Link>
+        </div>
+
         <div className="Essay">
           <h1>Ethnocomputing and Digital Art</h1>
           <p>
