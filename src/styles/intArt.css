@@ -24,6 +24,10 @@ button {
     transition: 0.5% ease-in-out;
 }
 
+button:hover {
+    transition: 0.5% ease-in-out;
+}
+
 #mybutton {
     background-color: transparent;
     border: none;
