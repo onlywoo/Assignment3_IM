@@ -37,7 +37,7 @@ export default class Blog3 extends Component {
           <Link to="/Art">Old Internet Art</Link>
         </div>
         <div className="Essay">
-          <h1>Internet Art</h1>
+          <h1> New Internet Art</h1>
           <p>
             My new internet art takes inspiration from pop-up ads and viruses
             that were impossible to get rid of once they were clicked. My
