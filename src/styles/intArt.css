@@ -5,12 +5,12 @@
 }
 
 .menuTitle img {
-    width: 100%;
-    height: auto;
+    margin-top: 5px;
 }
 
-.menuTitle button {
-    border-style: none;
+.menuTitle img:hover {
+    cursor: pointer;
+    transition: 0.5% ease-in-out;
 }
 
 #mybutton {
