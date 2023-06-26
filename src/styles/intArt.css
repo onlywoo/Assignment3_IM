@@ -1,7 +1,6 @@
 .menu {
     width: 100%;
     height: auto;
-    display: inline-block;
     justify-content: center;
     font-family: 'Courier New', Courier, monospace;
 }
@@ -21,13 +20,14 @@
 /*items*/
 
 .popupItem {
-    width: 350px;
-    height: 350px;
-    padding: 30px;
+    width: 200px;
+    height: 200px;
+    padding: 5%;
     margin: 10px;
     box-shadow: black;
     border-style: outset;
-    display: inherit;
+    position: unset;
+    grid-template-columns: 1fr 1fr 1fr;
 
 }
 
@@ -38,12 +38,14 @@
 
 .popupItem div {
 
-    width: 300px;
-    height: 300px;
+    width: 500px;
+    height: 500px;
     padding: 15px;
     background-repeat: no-repeat;
     background-size: cover;
     border-style: outset;
+    background-position: center;
+    position: sticky;
 }
 
 /*
