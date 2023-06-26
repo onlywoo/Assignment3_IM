@@ -5,8 +5,12 @@
 }
 
 .menuTitle img {
-    width: 350px;
-    height: 350px;
+    width: 100%;
+    height: auto;
+}
+
+.menuTitle button {
+    border-style: none;
 }
 
 .PopupList {
