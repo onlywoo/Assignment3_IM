@@ -1,4 +1,4 @@
-/*.menu {
+.menu {
     width: 100%;
     height: auto;
     font-family: 'Courier New', Courier, monospace;
@@ -8,8 +8,6 @@
     font-family: 'Courier New', Courier, monospace;
     font-size: 60px;
 }
-
-*/
 
 .PopupList {
     width: 100%;
