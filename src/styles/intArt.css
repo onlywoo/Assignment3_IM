@@ -1,7 +1,6 @@
-.menu {
+/*.menu {
     width: 100%;
     height: auto;
-    justify-content: center;
     font-family: 'Courier New', Courier, monospace;
 }
 
@@ -10,7 +9,8 @@
     font-size: 60px;
 }
 
-/*
+*/
+
 .PopupList {
     width: 100%;
     height: 100%;
@@ -87,23 +87,3 @@
     }
 }
 */
-
-
-.grid-container {
-    position: relative;
-    display: grid;
-    grid-template-columns: repeat(5, 1fr);
-}
-
-img {
-    position: absolute;
-    max-width: 200px;
-    height: auto;
-    transition: all 0.3s ease;
-    transform: translate(var(--x-position), var(--y-position)) scale(0.75);
-}
-
-img:hover {
-    transform: translate(var(--x-position), var(--y-position)) scale(1.25);
-    z-index: 999 !important;
-}
