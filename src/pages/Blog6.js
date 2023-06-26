@@ -90,7 +90,7 @@ export default class Blog3 extends Component {
             viral meme.&nbsp;
           </p>
           <p>
-            <img src={WAUR}></img>
+            <img src={WAUR} width={50} height={50}></img>
             Figure 1 This is a screenshot of the video that is often used as a
             meme on its own the show 'Pretty Liars1'(2014). As you can see the
             low resolution adds to the preconceived idea that Nollywood
@@ -184,7 +184,7 @@ export default class Blog3 extends Component {
             also often romanticise colonisation like in the movie &lsquo;
             <em>Out of Africa&rsquo;.</em>
           </p>
-          <img src={BFree} />
+          <img src={BFree} width={50} height={50} />
           <p>
             Figure 2 The two main actors who are white and from the UK . Born
             Free (1966) - Turner Classic Movies (tcm.com)
