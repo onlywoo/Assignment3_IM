@@ -33,11 +33,12 @@ export default class Blog3 extends Component {
           <Link to="/newArt">internet Art</Link>
         </div>
         <div className="Links">
-          <Link to="/Reflection">Reflection</Link>
-        </div>
-        <div className="Links">
           <Link to="/Art">Old Internet Art</Link>
         </div>
+        <div className="Links">
+          <Link to="/Reflection">Reflection</Link>
+        </div>
+
         <div className="Essay">
           <h1>African Digital art</h1>
           <p>
