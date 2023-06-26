@@ -31,11 +31,12 @@ export default class Blog1 extends Component {
           <Link to="/newArt">internet Art</Link>
         </div>
         <div className="Links">
-          <Link to="/Reflection">Reflection</Link>
-        </div>
-        <div className="Links">
           <Link to="/Art">Old Internet Art</Link>
         </div>
+        <div className="Links">
+          <Link to="/Reflection">Reflection</Link>
+        </div>
+
         <div className="Essay">
           <h1>React</h1>
           <p>

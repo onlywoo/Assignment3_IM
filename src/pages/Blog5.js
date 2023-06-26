@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import "../styles/Blogs.css";
 import { Link } from "react-router-dom";
 
-export default class Blog3 extends Component {
+export default class Blog5 extends Component {
   render() {
     return (
       <div className="blogCont">

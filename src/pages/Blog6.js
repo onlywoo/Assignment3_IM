@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 import WAUR from "../assets/WAUR.png";
 import BFree from "../assets/BornFree.png";
 
-export default class Blog3 extends Component {
+export default class Blog6 extends Component {
   render() {
     return (
       <div className="blogCont">
