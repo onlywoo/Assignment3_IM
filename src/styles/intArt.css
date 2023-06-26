@@ -63,15 +63,9 @@
     margin-right: -50px;
     margin-top: -69px;
 }
+.popupItem p {}
 */
-.popupItem p {
-    font-weight: bold;
-    margin-left: 220px;
-    margin-right: -1000px;
-    margin-top: -105px;
-    padding: 10px;
-    background-color: #868686;
-}
+
 
 .popupItem p:hover {
     cursor: pointer;
