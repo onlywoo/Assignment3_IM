@@ -34,7 +34,7 @@ function App() {
         <Route exact path="/Blog4" Component={Blog4} />
         <Route exact path="/Blog5" Component={Blog5} />
         <Route exact path="/Blog6" Component={Blog6} />
-        <Route exact path="/newArt" Component={internetArt} />
+        <Route exact path="/newArt" Component={newArt} />
         <Route exact path="/Relfection" Component={Reflection} />
       </Routes>
       <Footer> </Footer>
