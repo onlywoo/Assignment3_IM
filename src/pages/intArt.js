@@ -2,6 +2,7 @@ import React, { Component, useState } from "react";
 import { PopupList } from "../helpers/PopupList";
 import PopupItems from "../components/PopupItems";
 import "../styles/intArt.css";
+import Play from "../assets/playButton.png";
 
 export default class popupAds extends Component {
   render() {
