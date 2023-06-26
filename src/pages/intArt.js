@@ -9,9 +9,7 @@ export default class popupAds extends Component {
     return (
       <div className="menu">
         <div className="menuTitle">
-          <button img src="Playbtn">
-            Play?
-          </button>
+          <img src={Playbtn} id="myButton" onClick={"butClick()"} />
         </div>
         <div>
           {PopupList.map((popupItem, value) => {

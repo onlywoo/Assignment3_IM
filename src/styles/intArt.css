@@ -13,6 +13,10 @@
     border-style: none;
 }
 
+#mybutton {
+    cursor: pointer;
+}
+
 .PopupList {
     width: 100%;
     height: 100%;
