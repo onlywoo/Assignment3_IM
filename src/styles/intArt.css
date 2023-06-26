@@ -13,10 +13,12 @@ button {
     font: inherit;
     border-radius: 0;
     appearance: none;
+    transition-duration: 0.4s;
 }
 
 .menuTitle img {
-    margin-top: 5px;
+    margin-top: -177px;
+    margin-bottom: -174px;
 }
 
 .menuTitle img:hover {
@@ -26,6 +28,7 @@ button {
 
 button:hover {
     transition: 0.5% ease-in-out;
+    color: #a1a1a1;
 }
 
 #mybutton {
